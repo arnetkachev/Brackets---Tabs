@@ -62,6 +62,7 @@
 }
 .gt-tabs .open-files-container ul {
   margin-bottom: 0;
+  padding-bottom: 0 !important;
 }
 .gt-tabs .open-files-container a {
   height: 20px;
